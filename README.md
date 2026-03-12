@@ -101,6 +101,17 @@ Designed an interactive Excel dashboard with Pivot Tables, Pivot Charts, and sli
 - 🗺️ Analyzed sales performance across region, product category, and time period
 
 ---
+### 🍽️ [Zomato Order Analytics](https://github.com/DarshanDataAnalyst)
+> *January 2026*
+
+- 📦 8,998 orders · 5 cities · 8 cuisines · ₹61.9L total order value
+- 🔢 Derived 5 business metrics from raw data using Excel & Python
+- 🚨 Found 80.8% late delivery rate — #1 driver of customer dissatisfaction
+- 💰 Quantified ₹7.09L discount spend with city-cuisine breakdown
+- 📊 Proved 24/7 uniform demand across all 5 time slots (<4% variance)
+- 🏙️ Bangalore identified as highest-value market (₹13.37L revenue)
+
+----
 
 ## 💼 Professional Experience
 
