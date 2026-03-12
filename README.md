@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Darshan B K 👋</h1>
 
-<h3 align="center">Data Analyst | Python • SQL • Power BI • Excel</h3>
+<h3 align="center">Aspiring Data Analyst | Proficient in Excel • SQL • Power BI • Python</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bkdarshan" target="_blank">
