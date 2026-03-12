@@ -18,12 +18,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔍 **Data Analyst** with **8 years of domain experience** in Healthcare Revenue Cycle Management
-- 🐍 Skilled in building **Python-based data pipelines** and end-to-end analytical workflows
+- 🔍 **Senior Process Executive AR** with **8 years of domain experience** in Healthcare Revenue Cycle Management
 - 📊 Experienced in creating **Power BI dashboards** that transform complex data into business insights
 - 🏥 Deep expertise in **AR aging analysis**, denial root-cause investigation, and operational reporting
 - 🎯 Passionate about **data-driven decision making** and translating raw data into actionable intelligence
 - 🏆 **Best Performer Award (2019)** — Achieved **98% claim resolution accuracy** in healthcare operations
+- 📊 Recently transitioned into Data Analytics after completing a certified course from **Skillovilla**
+(Accredited by FutureSkills – A NASSCOM Initiative – and Wipro)
+- 🧠 Interested in uncovering actionable insights from data to drive informed business decisions
 - 📍 Based in **Bangalore, India**
 
 ---
@@ -40,6 +42,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+----
+
 ### Analytics Techniques
 - 🔧 Data Cleaning & Transformation
 - 📈 Exploratory Data Analysis (EDA)
@@ -52,7 +56,7 @@
 
 ## 📂 Featured Projects
 
-### 🛍️ [Power BI Sales Dashboard — Shop Nest E-Commerce](https://github.com/Darshan5949)
+### 🛍️ [Power BI Sales Dashboard — Shop Nest E-Commerce](https://github.com/DarshanDataAnalyst)
 > *February 2026*
 
 Built an interactive Power BI dashboard to analyze **9,000+ sales transactions** for a retail e-commerce store.
@@ -64,7 +68,7 @@ Built an interactive Power BI dashboard to analyze **9,000+ sales transactions**
 
 ---
 
-### 👥 [Employee Project Performance Analysis — Python](https://github.com/Darshan5949)
+### 👥 [Employee Project Performance Analysis — Python](https://github.com/DarshanDataAnalyst)
 > *January 2026*
 
 Built a full Python-based analytics pipeline using **Pandas & NumPy** for HR and project reporting.
@@ -76,7 +80,7 @@ Built a full Python-based analytics pipeline using **Pandas & NumPy** for HR and
 
 ---
 
-### 🛒 [E-Commerce Sales Analysis — SQL](https://github.com/Darshan5949)
+### 🛒 [E-Commerce Sales Analysis — SQL](https://github.com/DarshanDataAnalyst)
 > *January 2026*
 
 Analyzed **10,000+ transaction records** using SQL to uncover revenue and product insights.
@@ -87,7 +91,7 @@ Analyzed **10,000+ transaction records** using SQL to uncover revenue and produc
 
 ---
 
-### 📊 [Retail Sales Dashboard — Excel](https://github.com/Darshan5949)
+### 📊 [Retail Sales Dashboard — Excel](https://github.com/DarshanDataAnalyst)
 > *January 2026*
 
 Designed an interactive Excel dashboard with Pivot Tables, Pivot Charts, and slicers.
